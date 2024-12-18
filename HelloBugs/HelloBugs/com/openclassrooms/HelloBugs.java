@@ -6,4 +6,5 @@ public class HelloBugs {
 		System.out.println("Hello buggy code!");
 		}			
 	}
+	
 }
